@@ -1,0 +1,11 @@
+/GitHub/
+/Other/
+/.staging/
+/.update-lock/
+/projects.txt
+/archive-index.csv
+/warnings.log
+/.archive-index.tmp
+__pycache__/
+*.pyc
+.DS_Store
